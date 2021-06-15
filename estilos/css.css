@@ -4,9 +4,21 @@
     height: 30px;
     float: left;
 }
+
+header{
+    background-color: cadetblue;
+}
 .centrar{
     text-align:center;
     
+}
+footer{
+    background-color: cadetblue;
+}
+
+h2{
+    background-color: grey;
+    margin-right: 150px;
 }
 
 img{
@@ -15,10 +27,14 @@ img{
 }
 
 #tamaño{
-    width:400px;
+    width:100px;
 }
 
 main{
     margin-left: 150px
 
+}
+
+#colorH{
+    background-color: grey;
 }
