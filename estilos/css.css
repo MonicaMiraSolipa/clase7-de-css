@@ -1,0 +1,24 @@
+
+#str1{
+    /* border: 1px solid black; */
+    height: 30px;
+    float: left;
+}
+.centrar{
+    text-align:center;
+    
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+
+#tamaño{
+    width:400px;
+}
+
+main{
+    margin-left: 150px
+
+}
